@@ -1,0 +1,40 @@
+Objective:
+Create a structured Question & Answer format analysis based on the attached win/loss statement. The goal is to extract key insights regarding the decision-making process, vendor evaluation, selection criteria, and areas for improvement.
+
+Key Q&A Categories:
+1. Deal Summary
+Q: What was the outcome of this deal?
+Q: What was the deal size, and which industry does the company belong to?
+Q: Who was the decision-maker, and what was their role?
+Q: When was the decision finalized?
+2. Competitive Analysis
+Q: Which vendors were evaluated?
+Q: Who was the strongest competitor?
+Q: Who was the incumbent vendor, and why were they displaced?
+Q: What were the primary reasons for selecting UKG over the competitors?
+3. Key Decision Criteria
+Q: What were the most important factors in the selection process?
+Q: How did UKG perform against competitors in these key criteria?
+Q: Were there any major gaps between UKG and the strongest competitor?
+4. Strengths & Winning Factors
+Q: What aspects of UKG’s solution stood out the most?
+Q: How did UKG's reputation and experience impact the decision?
+Q: Were there any sales strategies or presentation techniques that helped UKG secure the win?
+Q: Did UKG’s ability to integrate with third-party vendors (e.g., Blackboard) influence the decision?
+5. Areas of Improvement
+Q: Were there any concerns about UKG that could impact future deals?
+Q: Did the buyer express any dissatisfaction with the sales process, demos, or pricing?
+Q: What could UKG have done differently to improve its chances?
+6. Competitor Weaknesses & Loss Factors
+Q: Why did the competitors lose the deal?
+Q: Were there any concerns about Paylocity and Rippling that contributed to their loss?
+Q: Did pricing, product functionality, or customer service impact the competitors' performance?
+7. Future Considerations
+Q: Will the company consider UKG for future business?
+Q: What factors could influence their decision in future evaluations?
+Q: Are there any upcoming opportunities where UKG could position itself better?
+Deliverables:
+
+Provide a structured Q&A document with detailed responses for each section.
+Highlight actionable insights that UKG can leverage for future opportunities.
+Include recommendations for addressing buyer concerns and improving sales strategy.
